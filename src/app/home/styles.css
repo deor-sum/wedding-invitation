@@ -1,0 +1,14 @@
+body {
+  --blue: #1300ff;
+  --background: var(--white);
+  --accent: var(--blue);
+
+}
+
+
+.box {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: var(--accent);
+}
